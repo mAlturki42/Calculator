@@ -6,11 +6,11 @@ To begin, the program get the input from the user. The user is expected to enter
 Once the input is entered, your program determine what operator the user entered, and then apply the appropriate math calculation to the two numbers: 
 
 
- - +	Add the two numbers
+- 	Add the two numbers
 
-- -	Subtract the two numbers
+- 	Subtract the two numbers
 
-- *	Multiply the two numbers
+- 	Multiply the two numbers
 
 - /	Divide the two numbers, treating them as floating point numbers, and therefore producing a floating point answer
 
