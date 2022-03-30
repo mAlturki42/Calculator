@@ -5,11 +5,17 @@ To begin, the program get the input from the user. The user is expected to enter
 
 Once the input is entered, your program determine what operator the user entered, and then apply the appropriate math calculation to the two numbers to 
 
-User Enters:	Do This:
+
 +	Add the two numbers
+
 -	Subtract the two numbers
+
 *	Multiply the two numbers
+
 /	Divide the two numbers, treating them as floating point numbers, and therefore producing a floating point answer
+
 //	Divide the two numbers, treating them as integers, and therefore producing an integer answer (the quotient from performing a long division)
+
 %	Divide the two numbers using long division, but produce the remainder
+
 ^	Raise the first number to the power of the second number
